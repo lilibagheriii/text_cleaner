@@ -1,0 +1,4 @@
+hello world  
+this is a sample text file  
+python makes reading files easy  
+hello again world
